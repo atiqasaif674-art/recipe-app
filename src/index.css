@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+}
+::selection {
+  background: #f4511e;
+  color: white;
+}
